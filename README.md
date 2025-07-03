@@ -28,7 +28,11 @@ Run AdminCommandsToolkit.exe
 (Make sure SCUM is running and in windowed mode)
 ```
 🪟 Windows only (uses win32gui, pyautogui, and SCUM-specific API)
-Download here:https://mega.nz/file/y9pAVCjS#-gns-dDHUIZmuEsJAiE3e3HxIiAGQS-mY88Bm_S0Iho
+
+Download here:
+```
+https://mega.nz/file/y9pAVCjS#-gns-dDHUIZmuEsJAiE3e3HxIiAGQS-mY88Bm_S0Iho
+```
 🔧 Usage
 ```
 Open SCUM and log in as an admin

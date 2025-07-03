@@ -18,6 +18,11 @@ Developed by cobusbo, this tool makes in-game moderation and announcements faste
 ✅ Import / Export profiles as .json
 ✅ Offline & standalone – no server connection needed
 ```
+## 🖼️ Interface Preview
+![image](https://github.com/user-attachments/assets/4c5e651d-f022-4c1c-90d3-7da29f83e6e7)
+![image](https://github.com/user-attachments/assets/8ba82e40-a4f5-4ca8-a8f3-790d2ea38711)
+
+
 📦 Installation
 ```
 Download the latest .zip release from Releases

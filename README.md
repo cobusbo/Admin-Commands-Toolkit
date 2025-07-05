@@ -35,9 +35,9 @@ Run AdminCommandsToolkit.exe
 🪟 Windows only (uses win32gui, pyautogui, and SCUM-specific API)
 
 Download here:
-```
-https://mega.nz/file/y9pAVCjS#-gns-dDHUIZmuEsJAiE3e3HxIiAGQS-mY88Bm_S0Iho
-```
+
+[Here](http://bit.ly/3GwVmrz)
+
 🔧 Usage
 ```
 Open SCUM and log in as an admin

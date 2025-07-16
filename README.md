@@ -19,8 +19,8 @@ Developed by cobusbo, this tool makes in-game moderation and announcements faste
 ✅ Offline & standalone – no server connection needed
 ```
 ## 🖼️ Interface Preview
-![image](https://github.com/user-attachments/assets/4c5e651d-f022-4c1c-90d3-7da29f83e6e7)
-![image](https://github.com/user-attachments/assets/8ba82e40-a4f5-4ca8-a8f3-790d2ea38711)
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/01258299-8fc6-447b-83eb-d0ce12c11ea8" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/9f08db65-e85c-4b7d-b072-fe9459d53385" />
 
 
 📦 Installation
@@ -34,9 +34,7 @@ Run AdminCommandsToolkit.exe
 ```
 🪟 Windows only (uses win32gui, pyautogui, and SCUM-specific API)
 
-Download here:
 
-[Here](http://bit.ly/3GwVmrz)
 
 🔧 Usage
 ```

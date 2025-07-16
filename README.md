@@ -22,8 +22,11 @@ Developed by cobusbo, this tool makes in-game moderation and announcements faste
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/01258299-8fc6-447b-83eb-d0ce12c11ea8" />
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/9f08db65-e85c-4b7d-b072-fe9459d53385" />
 
+## :arrow_down: Download
+[Download it here](https://bit.ly/ScumAdminCommandsToolkit)
 
-📦 Installation
+
+## 📦 Installation
 ```
 Download the latest .zip release from Releases
 
